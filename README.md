@@ -6,7 +6,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/opensoraapp)
-[![Website](https://img.shields.io/badge/Website-opensoraapp.com-black?logo=vercel)](https://opensoraapp.com)[Website](https://opensoraapp.com) • [The Manifesto](#-the-manifesto) • [Roadmap](#-roadmap) • [Contributing](#-join-the-rebellion-how-to-contribute) • [Discord](https://discord.gg/opensoraapp)
+[![Website](https://img.shields.io/badge/Website-opensoraapp.com-black?logo=vercel)](https://opensoraapp.com)
+
+[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/1e767233-f86a-4864-a56d-b41ad8e5b010" />](https://opensoraapp.com)
+
 
 </div>
 
