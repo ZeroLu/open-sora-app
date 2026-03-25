@@ -12,6 +12,8 @@
 
 ---
 
+## For early access and contribution, please sign up at https://opensoraapp.com
+
 ## 📜 The Manifesto
 
 On March 24, 2026, OpenAI pulled the plug on Sora. Citing the need to prioritize compute power for "lucrative enterprise robotics," they effectively abandoned the millions of creators who helped popularize their platform. 
@@ -19,6 +21,8 @@ On March 24, 2026, OpenAI pulled the plug on Sora. Citing the need to prioritize
 They treated human creativity as a disposable side quest. **We disagree.**
 
 The future of AI video generation shouldn't be locked behind a walled garden, heavily censored by a corporation, or shut down overnight. We are building **OpenSoraApp**—an open-source sanctuary for filmmakers, creators, and developers. Bring your own models. Own your creations. Never lose your work again.
+
+
 
 ---
 
@@ -53,32 +57,10 @@ We are moving fast. Here is our roadmap to build the ultimate open-source text-t
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (TBD)
 
 OpenSoraApp is built to be modular, allowing the frontend UI to operate seamlessly with various local or cloud AI backends.
 *   **Frontend:** Next.js, React, Tailwind CSS, Zustand
 *   **Backend/API:** Python, FastAPI, WebSockets (for streaming generation progress)
 *   **AI Integration:** Diffusers, PyTorch, ComfyUI API wrappers
 
----
-
-## 🚀 Quick Start (Pre-Alpha)
-
-*Note: The repository is currently in rapid active development. Instructions below are for setting up the development environment.*
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/OpenSoraApp/OpenSoraApp.git
-cd OpenSoraApp
-
-# 2. Setup the Frontend (Web UI)
-cd frontend
-npm install
-npm run dev
-
-# 3. Setup the Backend (Python FastAPI)
-cd ../backend
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn main:app --reload
